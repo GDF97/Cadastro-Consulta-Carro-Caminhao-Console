@@ -1,0 +1,8 @@
+C:\Users\Pedro\source\repos\CaminhaoCarroVeiculo\CaminhaoCarroVeiculo\bin\Debug\CaminhaoCarroVeiculo.exe.config
+C:\Users\Pedro\source\repos\CaminhaoCarroVeiculo\CaminhaoCarroVeiculo\bin\Debug\CaminhaoCarroVeiculo.exe
+C:\Users\Pedro\source\repos\CaminhaoCarroVeiculo\CaminhaoCarroVeiculo\bin\Debug\CaminhaoCarroVeiculo.pdb
+C:\Users\Pedro\source\repos\CaminhaoCarroVeiculo\CaminhaoCarroVeiculo\obj\Debug\CaminhaoCarroVeiculo.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\CaminhaoCarroVeiculo\CaminhaoCarroVeiculo\obj\Debug\CaminhaoCarroVeiculo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pedro\source\repos\CaminhaoCarroVeiculo\CaminhaoCarroVeiculo\obj\Debug\CaminhaoCarroVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\CaminhaoCarroVeiculo\CaminhaoCarroVeiculo\obj\Debug\CaminhaoCarroVeiculo.exe
+C:\Users\Pedro\source\repos\CaminhaoCarroVeiculo\CaminhaoCarroVeiculo\obj\Debug\CaminhaoCarroVeiculo.pdb
